@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-🎓  Eu sou uma estudante, cursando um curso técnico em análise e desenvolvimento de sitemas pelo Sesi/Senai.
+🎓  Eu sou uma estudante, cursando o curso técnico em Análise e Desenvolvimento de Sitemas pelo Sesi/Senai.
 
 👩‍💻 Atualmente, estou terminando o ensino médio, cursando um curso técnico em ADS e me preparando para vestibulares e enem.
 ---
