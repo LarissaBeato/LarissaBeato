@@ -2,16 +2,9 @@
 
 ### Sobre mim
 
-💻 Eu sou uma estudante, cursando um curso técnico em análise e desenvolvimento de sitemas.
-
-🎓 Formado em Engenharia de Computação pela [Universidade Tecnológica Federal do Paraná (UTFPR)](http://portal.utfpr.edu.br/), Campus Pato Branco. Também sou Técnico em Informática pelo Instituto Federal  da Bahia (IFBA), Campus Eunápolis.
+🎓  Eu sou uma estudante, cursando um curso técnico em análise e desenvolvimento de sitemas pelo Sesi/Senai.
 
 👩‍💻 Atualmente, estou terminando o ensino médio, cursando um curso técnico em ADS e me preparando para vestibulares e enem.
-
-🔎 Sou apaixonado por temas relacionados a sistemas embarcados, prototipação de circuitos e esquemas eletrônicos, além de tecnologias de inovação.
-
-✒️ No meu tempo livre, gosto de aprender novas tecnologias, desenvolver projetos de software e me aprofundar em eletrônica.
-
 ---
 
 **Tecnologias e Ferramentas**
