@@ -2,11 +2,8 @@
 
 ### Sobre mim
 
-🎓  Eu sou estudante, cursando o curso em Análise e Desenvolvimento de Sitemas na Unisep.
-
-Trabalhando como auxiliar de digitação.
-
-👩‍💻 Atualmente, estou terminando o ensino médio, cursando um curso técnico em ADS e me preparando para vestibulares e enem.
+👩‍💻 Atualmente, estou cursando o curso em Análise e Desenvolvimento de Sitemas na Unisep e 
+trabalhando como auxiliar de digitação.
 ---
 
 **Tecnologias e Ferramentas**
