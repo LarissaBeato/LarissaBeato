@@ -26,6 +26,7 @@ trabalhando como auxiliar de digitação.
 - Hardware 
 - Java
 - Técnico em análise e desenvolvimento de sistemas
+- Inglês Intermedíario
 
 ---
 
