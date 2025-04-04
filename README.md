@@ -2,8 +2,8 @@
 
 ### Sobre mim
 
-👩‍💻 Atualmente, estou cursando o curso em Análise e Desenvolvimento de Sitemas na Unisep e 
-trabalhando como auxiliar de digitação.
+👩‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sitemas na Unisep e 
+trabalhando como auxiliar de digitalização.
 ---
 
 **Tecnologias e Ferramentas**
