@@ -1,4 +1,4 @@
-# Oi, me chamo Larissa Bonkoski Beato👋
+#Larissa Bonkoski Beato👋
 
 ### Sobre mim
 
