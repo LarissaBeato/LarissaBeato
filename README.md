@@ -38,7 +38,7 @@ trabalhando como auxiliar de digitação.
   <a href="https://github.com/LarissaBeato/LarissaBeato.git">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaBeato&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaBeato&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="180em" src=https://github-readme-streak-stats.herokuapp.com/?user=LarissaBeato&theme=dracula&hide_border=true"/>
+
   </a>
 </div>
 
